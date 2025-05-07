@@ -1,0 +1,1 @@
+SELECT * FROM supply_chain_data.cleaned_fees;
