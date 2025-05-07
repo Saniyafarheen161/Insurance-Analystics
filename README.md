@@ -1,1 +1,1 @@
-# Insurance-Analystics
+# Insurance-Analytics
